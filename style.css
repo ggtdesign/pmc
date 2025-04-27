@@ -1,0 +1,17 @@
+.container {
+  justify-content: center;
+  margin: 64px;
+}
+
+.bild-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.bild {
+  width: 322.5px;
+  height: 699px;
+  justify-content: center;
+  align-items: center;
+}
